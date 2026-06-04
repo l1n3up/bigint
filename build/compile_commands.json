@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/BigIntCalculator.dir/BigIntCalculator_autogen/mocs_compilation.cpp.o -c /Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/mocs_compilation.cpp",
+  "file": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/BigIntCalculator.dir/BigIntCalculator_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/BigIntCalculator.dir/main.cpp.o -c /Users/l1n3up_work/cpp_projects/bigIntCalculator/main.cpp",
+  "file": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/main.cpp",
+  "output": "CMakeFiles/BigIntCalculator.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/BigIntCalculator.dir/mainwindow.cpp.o -c /Users/l1n3up_work/cpp_projects/bigIntCalculator/mainwindow.cpp",
+  "file": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/mainwindow.cpp",
+  "output": "CMakeFiles/BigIntCalculator.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator_autogen/include -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -o CMakeFiles/BigIntCalculator.dir/BigInt.cpp.o -c /Users/l1n3up_work/cpp_projects/bigIntCalculator/BigInt.cpp",
+  "file": "/Users/l1n3up_work/cpp_projects/bigIntCalculator/BigInt.cpp",
+  "output": "CMakeFiles/BigIntCalculator.dir/BigInt.cpp.o"
+}
+]

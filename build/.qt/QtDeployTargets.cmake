@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_BigIntCalculator_FILE /Users/l1n3up_work/cpp_projects/bigIntCalculator/build/BigIntCalculator)
+set(__QT_DEPLOY_TARGET_BigIntCalculator_TYPE EXECUTABLE)
